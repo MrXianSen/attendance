@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Attendance/!svn/ver/31/trunk/Attendance.MODEL/Model
+END
+EmployeeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Attendance/!svn/ver/11/trunk/Attendance.MODEL/Model/EmployeeInfo.cs
+END
+MonthAttendance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Attendance/!svn/ver/6/trunk/Attendance.MODEL/Model/MonthAttendance.cs
+END
+CheckInInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Attendance/!svn/ver/11/trunk/Attendance.MODEL/Model/CheckInInfo.cs
+END
+Department.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Attendance/!svn/ver/6/trunk/Attendance.MODEL/Model/Department.cs
+END
+WorkDuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Attendance/!svn/ver/31/trunk/Attendance.MODEL/Model/WorkDuration.cs
+END

@@ -1,0 +1,6 @@
+F:\myWork\Attendance\Attendance.MODEL\bin\Debug\Attendance.MODEL.dll
+F:\myWork\Attendance\Attendance.MODEL\bin\Debug\Attendance.MODEL.pdb
+F:\myWork\Attendance\Attendance.MODEL\bin\Debug\Newtonsoft.Json.dll
+F:\myWork\Attendance\Attendance.MODEL\obj\Debug\ResolveAssemblyReference.cache
+F:\myWork\Attendance\Attendance.MODEL\obj\Debug\Attendance.MODEL.dll
+F:\myWork\Attendance\Attendance.MODEL\obj\Debug\Attendance.MODEL.pdb

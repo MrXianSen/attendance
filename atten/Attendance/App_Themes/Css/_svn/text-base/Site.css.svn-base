@@ -1,0 +1,155 @@
+﻿body
+{
+    color: #232323;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer, nav, section
+{
+    display: block;
+}
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset
+{
+    border: 1px solid #95B8E7;
+    margin-bottom: 10px;
+}
+
+legend
+{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea
+{
+    min-height: 75px;
+}
+
+.editor-label
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field
+{
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #f00;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+.ul-menu
+{
+    margin: 0px;
+    list-style-type: none;
+}
+.ul-menu li
+{
+    margin: 0px -10px 0px -50px;
+    padding: 8px 0px 8px 20px; /*background-image: url('easyui/icons/icon1.gif');*/
+    background-repeat: no-repeat;
+    background-position: 20px center;
+}
+input[type='text'], input[type='number'], input[type='datetime'], input[type="password"], input[type='checkbox'], textarea, select
+{
+    padding: 4px;
+    border: 1px solid #95B8E7;
+    font-size: 12px;
+}
+.button_out
+{
+    background: url('../Images/button.gif') repeat-x;
+    background-position: 0px -96px;
+    border: 1px solid #72a1bd;
+    color: #000000;
+    cursor: pointer;
+    line-height: 26px;
+    padding: 0px 11px 0px 11px;
+    height: 26px;
+}
+div.link a
+{
+    color: #ffffff;
+}
+.mm1 a
+{
+    text-decoration: none;
+    color: #000000;
+}
+.btn
+{
+    width: 60%;
+}
+/* Table表格样式
+-----------------------------------------------------------*/
+table tr
+{
+     height:40px;
+    line-height:40px;
+}
+
+table tr td
+{
+    text-align: center;
+}
+
+.tb
+{
+    padding: 5px;
+    height: auto;
+}
+.tba
+{
+    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.tbb
+{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.easyui-linkbutton
+{
+    width: 75px;
+}
+
+input,select
+{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+

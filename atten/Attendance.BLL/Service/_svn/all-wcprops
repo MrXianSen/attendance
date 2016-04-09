@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Attendance/!svn/ver/180/trunk/Attendance.BLL/Service
+END
+UsrAuth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Attendance/!svn/ver/181/trunk/Attendance.BLL/Service/UsrAuth.cs
+END
+MonthAttendanceService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Attendance/!svn/ver/181/trunk/Attendance.BLL/Service/MonthAttendanceService.cs
+END
+EmployeeService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Attendance/!svn/ver/152/trunk/Attendance.BLL/Service/EmployeeService.cs
+END
+CheckInInfoService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Attendance/!svn/ver/181/trunk/Attendance.BLL/Service/CheckInInfoService.cs
+END
+DepartmentService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Attendance/!svn/ver/167/trunk/Attendance.BLL/Service/DepartmentService.cs
+END
+WorkDurationService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Attendance/!svn/ver/181/trunk/Attendance.BLL/Service/WorkDurationService.cs
+END

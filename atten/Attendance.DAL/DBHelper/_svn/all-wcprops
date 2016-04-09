@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Attendance/!svn/ver/6/trunk/Attendance.DAL/DBHelper
+END
+SqlHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Attendance/!svn/ver/6/trunk/Attendance.DAL/DBHelper/SqlHelper.cs
+END
+SqlHelperParameterCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Attendance/!svn/ver/6/trunk/Attendance.DAL/DBHelper/SqlHelperParameterCache.cs
+END
+MrDBAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Attendance/!svn/ver/6/trunk/Attendance.DAL/DBHelper/MrDBAccess.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Attendance/!svn/ver/180/trunk/Attendance
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Attendance/!svn/ver/8/trunk/Attendance/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Attendance/!svn/ver/6/trunk/Attendance/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Attendance/!svn/ver/153/trunk/Attendance/Web.config
+END
+Attendance.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Attendance/!svn/ver/104/trunk/Attendance/Attendance.csproj
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Attendance/!svn/ver/6/trunk/Attendance/Web.Debug.config
+END
+Attendance.Publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Attendance/!svn/ver/6/trunk/Attendance/Attendance.Publish.xml
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Attendance/!svn/ver/6/trunk/Attendance/Global.asax
+END

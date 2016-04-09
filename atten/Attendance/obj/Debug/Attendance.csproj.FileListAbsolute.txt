@@ -1,0 +1,17 @@
+F:\myWork\Attendance\Attendance\bin\Web\UserManage.aspx
+F:\myWork\Attendance\Attendance\bin\Web\UserManage.aspx.cs
+F:\myWork\Attendance\Attendance\bin\Web\UserManage.aspx.designer.cs
+F:\myWork\Attendance\Attendance\bin\Attendance.dll
+F:\myWork\Attendance\Attendance\bin\Attendance.pdb
+F:\myWork\Attendance\Attendance\bin\Attendance.BLL.dll
+F:\myWork\Attendance\Attendance\bin\Attendance.Common.dll
+F:\myWork\Attendance\Attendance\bin\Attendance.MODEL.dll
+F:\myWork\Attendance\Attendance\bin\Newtonsoft.Json.dll
+F:\myWork\Attendance\Attendance\bin\Attendance.DAL.dll
+F:\myWork\Attendance\Attendance\bin\Attendance.BLL.pdb
+F:\myWork\Attendance\Attendance\bin\Attendance.Common.pdb
+F:\myWork\Attendance\Attendance\bin\Attendance.MODEL.pdb
+F:\myWork\Attendance\Attendance\bin\Attendance.DAL.pdb
+F:\myWork\Attendance\Attendance\obj\Debug\ResolveAssemblyReference.cache
+F:\myWork\Attendance\Attendance\obj\Debug\Attendance.dll
+F:\myWork\Attendance\Attendance\obj\Debug\Attendance.pdb

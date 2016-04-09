@@ -1,0 +1,12 @@
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.BLL.dll
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.BLL.pdb
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.Common.dll
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.DAL.dll
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.MODEL.dll
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Newtonsoft.Json.dll
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.Common.pdb
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.DAL.pdb
+F:\myWork\Attendance\Attendance.BLL\bin\Debug\Attendance.MODEL.pdb
+F:\myWork\Attendance\Attendance.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\myWork\Attendance\Attendance.BLL\obj\Debug\Attendance.BLL.dll
+F:\myWork\Attendance\Attendance.BLL\obj\Debug\Attendance.BLL.pdb

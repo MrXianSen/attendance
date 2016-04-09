@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ImageCode.aspx.cs" Inherits="Attendance.ImageCode" %>
